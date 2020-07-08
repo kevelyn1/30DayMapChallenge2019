@@ -5,7 +5,7 @@ description: "Results of our #30DayMapChallenge in November 2019!"
 logo: tw30_120x.jpg # 120x120 px default image used for Twitter summary card
 teaser: tw30_400x250.jpg #  400x250 px default teaser image used in image archive grid
 locale: en
-url: https://allixender.github.io/demo_grid
+url: https://kevelyn1.github.io/30DayMapChallenge2019
 feed:
   path: atom.xml
 
