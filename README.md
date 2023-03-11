@@ -7,4 +7,4 @@
 ## Where you can also find me:
 
 * [Twitter](https://twitter.com/evelynuuemaa).
-* [Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/people-0)
+* [Landscape Geoinformatics Lab](https://landscape-geoinformatics.ut.ee/)
